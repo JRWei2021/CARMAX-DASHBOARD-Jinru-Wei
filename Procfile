@@ -1,1 +1,1 @@
-web: gunicorn boston_universities:server
+web: gunicorn MA705 Individual Project, Jinru Wei:server
