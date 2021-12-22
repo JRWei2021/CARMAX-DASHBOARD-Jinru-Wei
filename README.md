@@ -6,7 +6,7 @@ The data was collected from https://www.carmax.com/cars, and was scrapped using 
 
 The dataset includes 14 variables:
 
-Type: SUV, Truck, Crossover, Sedan, Coupe, Convertible, Luxury, Sport Car, Diesel Engine, Van, Hybrid, Wagon, Electric Vehicle
+Type: SUV, Truck, Crossover, Sedan, Coupe, Convertible, Luxury, Sport Car, Diesel Engine, Van, Hybrid, Wagon, Electric Vehicle.
 
 Year
 
