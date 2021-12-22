@@ -1,1 +1,1 @@
-web: gunicorn MA705 Individual Project, Jinru Wei:server
+web: gunicorn app:server
