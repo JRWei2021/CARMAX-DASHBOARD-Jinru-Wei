@@ -1,6 +1,8 @@
 # MA705 Individual Project Jinru Wei
  MA705 Individual Project Carmax Dashboard
 
+Dashboard: https://ma705-bentley-jrw.herokuapp.com/
+
 This Dashboard was created to show inventory information for CARMAX website.
 The data was collected from https://www.carmax.com/cars, and was scrapped using BeautifulSoup 4.
 
